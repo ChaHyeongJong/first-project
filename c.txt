@@ -1,2 +1,7 @@
 test
+<<<<<<< HEAD
 boss did it
+=======
+
+freshman did it
+>>>>>>> 52db3b72a665b937222adf17ed36d8a1bd2a9ee6
